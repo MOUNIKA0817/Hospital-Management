@@ -2,7 +2,7 @@
 
 # ⚕️ Hospital Management System - Made using C#, ASP.net
 
-A fully featured Clinic Management System having a well designed Database Schema made as a final project for the course "Application Development with .NET and Web Services Its based on the 3 Tier Architecture.
+A fully featured Clinic Management System having a well designed Database Schema made as project for the "Application Development with .NET and Web Services Its based on the 3 Tier Architecture.
 
 ### Signup Page
 
